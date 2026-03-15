@@ -21,7 +21,7 @@ export default function SendMoney() {
 
     alert("Transfer Successful");
 
-    navigate("/"); // redirect to dashboard
+    navigate("/");
   };
 
   return (
