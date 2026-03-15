@@ -18,7 +18,7 @@ export default function Signup() {
 
     alert("Signup Successful");
 
-    navigate("/login"); // redirect to login
+    navigate("/login");
   };
 
   return (
