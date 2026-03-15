@@ -19,7 +19,7 @@ export default function Login() {
 
     login(res.data.token);
 
-    navigate("/"); // redirect to dashboard
+    navigate("/");
   };
 
   return (
